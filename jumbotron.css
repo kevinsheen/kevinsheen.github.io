@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("images/eagle-small.jpg");
+  background-size: 1100px;
+  background-position: 30% 20%
+}
+
+h2 {
+  color: green; 
+}
