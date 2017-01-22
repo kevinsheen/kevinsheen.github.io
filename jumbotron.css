@@ -2,12 +2,27 @@
   background-image: url("images/eagle-small.jpg");
   background-size: 1100px;
   background-position: 30% 30%;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px black;
+  
+}
+
+.container-about {
+  text-align: center;
+  color: white;
+  background-color: black;
+  opacity: 0.8;
+  display: inline-block;
+  margin: 3em;
+  padding: 1em;
+  border-radius: 20px;
 }
 
 h2 {
   color: lightblue; 
   text-align: center; 
-  text-shadow: 1px 1px black;
+  text-shadow: 0.8px 0.8px black;
   
 }
 
